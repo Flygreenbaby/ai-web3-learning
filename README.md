@@ -25,6 +25,7 @@ logs/       - 学习日志和问答记录
 - [x] Day 1：部署并开始使用Hermes + 并完成部署流程记录
 - [x] Day 2: 创建本学习仓库 + 整理git操作流程 + LLM 基础概念 
 - [x] Day 3 (Prompt + Context): 掌握了 Prompt 四段式结构设计与 Context 信息来源分级。
+- [x] Day 4 (RAG + Agent + Frameworks + Vibe Coding + MCP): 完成 AI 基础 Phase 1 全部 5 篇：RAG 证据链、Agent 五要素执行循环、Frameworks 约束层、Vibe Coding 协作模式、MCP 工具协议。
 
 
 
