@@ -17,7 +17,7 @@ Email: hxqlst@gmail.com
 
 **学习计划：**AI × Web3 School Bootcamp 
 
-**学习工具：** Hermes agent（阿里百炼免费模型）
+**学习工具：** Hermes agent（阿里百炼免费模型 + DeepSeek V4 Pro）
 
 ## ⚠️ 隐私提醒
 
