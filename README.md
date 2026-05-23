@@ -8,16 +8,24 @@
 - **WCB 课程页**：https://web3career.build/zh/programs/AI-Web3-School
 - **WCB Learning**：https://web3career.build/zh/programs/AI-Web3-School#tab=learning
 
-**个人信息：**
+## 👤 个人信息
 
-学员：Flygreenbaby
-学号: 4348
-GitHub Name: HanXiangQian
-Email: hxqlst@gmail.com
+| 项目 | 内容 |
+|------|------|
+| 学员 | Flygreenbaby |
+| 学号 | 4348 |
+| GitHub | [Flygreenbaby](https://github.com/Flygreenbaby) |
+| 学习计划 | AI × Web3 School Bootcamp |
+| 学习工具 | Hermes Agent（模型：DeepSeek V4 Pro） |
 
-**学习计划：**AI × Web3 School Bootcamp 
+## 🛠️ 前置工具
 
-**学习工具：** Hermes agent（阿里百炼免费模型 + DeepSeek V4 Pro）
+| 工具 | 用途 | 状态 |
+|------|------|:--:|
+| Telegram | 与 Hermes Agent 交互的聊天终端 | ✅ |
+| Hermes Agent | AI 学习助手，驱动每日学习流程 | ✅ |
+| MetaMask | Web3 测试钱包，链上交易签名与账户管理 | ✅ |
+| Remix IDE | 浏览器端 Solidity IDE，合约编写/编译/部署 | ✅ |
 
 ## ⚠️ 隐私提醒
 
@@ -37,16 +45,15 @@ Email: hxqlst@gmail.com
 | `templates/` | 笔记模板 |
 | `handbook-feedback/` | Handbook 反馈沉淀 |
 
-## week1 进度
+## Week 1 进度
 
-- [x] Day 1：部署并开始使用Hermes + 并完成部署流程记录
-- [x] Day 2: 创建本学习仓库 + 整理git操作流程 + LLM 基础概念 
-- [x] Day 3 (Prompt + Context): 掌握了 Prompt 四段式结构设计与 Context 信息来源分级。
-- [x] Day 4 (RAG + Agent + Frameworks + Vibe Coding + MCP): 完成 AI 基础 Phase 1 全部 5 篇：RAG 证据链、Agent 五要素执行循环、Frameworks 约束层、Vibe Coding 协作模式、MCP 工具协议。
-- [x] Day 5 (Evaluation + Fine-tuning + Inference): AI 基础收官——评估体系可重复测量、微调是最后手段非第一步、推理是约束条件下的服务平衡。Week 1 全部 11 篇完成 ✅。
-
-
+- [x] Day 1：部署并开始使用 Hermes + 完成部署流程记录
+- [x] Day 2：创建本学习仓库 + 整理 git 操作流程 + LLM 基础概念
+- [x] Day 3：Prompt 四段式结构设计 + Context 信息来源分级
+- [x] Day 4：RAG / Agent / Frameworks / Vibe Coding / MCP 五篇
+- [x] Day 5：Evaluation + Fine-tuning + Inference —— Week 1 全部 11 篇完成 ✅
+- [x] Day 6：LLM / Prompt / Context / RAG 四篇配套实践 —— 4/11 实践完成
 
 ## 最终目的
 
-以AI/Web3为土壤，创建一个虚拟大树🌳，自由翱翔在网络中（还有各个设备上）
+以 AI/Web3 为土壤，创建一个虚拟大树🌳，自由翱翔在网络中（还有各个设备上）
