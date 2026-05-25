@@ -21,18 +21,18 @@
 | 6 | Frameworks 框架 | [/ai/frameworks/](https://aiweb3.school/zh/handbook/ai/frameworks/) | ✅ |
 | 7 | Vibe Coding 氛围编程 | [/ai/vibe-coding/](https://aiweb3.school/zh/handbook/ai/vibe-coding/) | ✅ |
 | 8 | MCP 模型上下文协议 | [/ai/mcp/](https://aiweb3.school/zh/handbook/ai/mcp/) | ✅ |
-| 9 | Evaluation 评估 | [/ai/evaluation/](https://aiweb3.school/zh/handbook/ai/evaluation/) | ⬜ |
-| 10 | Fine-tuning 微调 | [/ai/fine-tuning/](https://aiweb3.school/zh/handbook/ai/fine-tuning/) | ⬜ |
-| 11 | Inference 推理服务 | [/ai/inference/](https://aiweb3.school/zh/handbook/ai/inference/) | ⬜ |
+| 9 | Evaluation 评估 | [/ai/evaluation/](https://aiweb3.school/zh/handbook/ai/evaluation/) | ✅ 笔记 / ⬜ 实践 |
+| 10 | Fine-tuning 微调 | [/ai/fine-tuning/](https://aiweb3.school/zh/handbook/ai/fine-tuning/) | ✅ 笔记 / ⬜ 实践 |
+| 11 | Inference 推理服务 | [/ai/inference/](https://aiweb3.school/zh/handbook/ai/inference/) | ✅ 笔记 / ⬜ 实践 |
 
 ## Week 2：Web3 基础
 
 | 序号 | 主题 | Handbook 链接 | 状态 |
 |------|------|-------------|------|
 | 1 | Network 网络基础 | [/web3/network/](https://aiweb3.school/zh/handbook/web3/network/) | ⬜ |
-| 2 | Cryptography 密码学 | [/web3/cryptography/](https://aiweb3.school/zh/handbook/web3/cryptography/) | ⬜ |
-| 3 | Wallet 钱包 | [/web3/wallet/](https://aiweb3.school/zh/handbook/web3/wallet/) | ⬜ |
-| 4 | Smart Contract 智能合约 | [/web3/smart-contract/](https://aiweb3.school/zh/handbook/web3/smart-contract/) | ⬜ |
+| 2 | Cryptography 密码学 | [/web3/cryptography/](https://aiweb3.school/zh/handbook/web3/cryptography/) | ✅ 笔记 / ✅ 实践 |
+| 3 | Wallet 钱包 | [/web3/wallet/](https://aiweb3.school/zh/handbook/web3/wallet/) | ✅ 笔记 / ✅ 实践 |
+| 4 | Smart Contract 智能合约 | [/web3/smart-contract/](https://aiweb3.school/zh/handbook/web3/smart-contract/) | ✅ 笔记 / ✅ 实践 |
 | 5 | Account Abstraction | [/web3/account-abstraction/](https://aiweb3.school/zh/handbook/web3/account-abstraction/) | ⬜ |
 | 6 | Dev Stack 开发栈 | [/web3/dev-stack/](https://aiweb3.school/zh/handbook/web3/dev-stack/) | ⬜ |
 | 7 | DeFi | [/web3/defi/](https://aiweb3.school/zh/handbook/web3/defi/) | ⬜ |
