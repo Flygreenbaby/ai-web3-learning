@@ -60,7 +60,8 @@
 - [x] Day 8：密码学（签名观察）+ 钱包（交互地图）+ 智能合约（合约阅读）—— 3/10 完成
 - [x] Day 9：Dev Stack（Remix部署+Hardhat尝试）+ Network（测试网交易追踪）—— 5/10 完成
 - [x] Day 10：账户抽象（Session Key策略）+ DeFi（交易拆解）+ 预言机（Price Feed检查）—— 8/10 完成
-<!-- 由 Hermes AI（模型：qwen3.7-max）在 2026-05-27 更新 -->
+- [x] Day 11：索引（事件索引设计）+ 安全（交易安全检查表）—— 10/10 Week 2 全部完成 🎉
+<!-- 由 Hermes AI（模型：qwen3.6-max-preview）在 2026-05-28 更新 -->
 
 ## 最终目的
 
