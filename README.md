@@ -54,6 +54,8 @@
 - [x] Day 5：Evaluation + Fine-tuning + Inference —— Week 1 全部 11 篇完成 ✅
 - [x] Day 6：LLM / Prompt / Context / RAG 四篇配套实践 —— 4/11 实践完成
 - [x] Day 7：Agent + Frameworks 两篇配套实践 —— 6/11 实践完成
+- [x] Day 12：AI基础剩余实践补全（Evaluation/Fine-tuning/Inference/MCP/Vibe Coding）—— 11/11 实践完成 🎉
+<!-- 由 Hermes AI（模型：qwen3.7-max-preview）在 2026-05-29 更新 -->
 
 ## Week 2 进度
 
