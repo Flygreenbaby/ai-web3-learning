@@ -65,6 +65,11 @@
 - [x] Day 11：索引（事件索引设计）+ 安全（交易安全检查表）—— 10/10 Week 2 全部完成 🎉
 <!-- 由 Hermes AI（模型：qwen3.6-max-preview）在 2026-05-28 更新 -->
 
+## Week 3 进度
+
+- [x] Day 13：链感知上下文（Chain-aware Context）—— AI × Web3 Bridge 第一篇，1/14 完成
+<!-- 由 Hermes AI（模型：deepseek-v4-pro）在 2026-06-01 更新 -->
+
 ## 最终目的
 
 以 AI/Web3 为土壤，创建一个虚拟大树🌳，自由翱翔在网络中（还有各个设备上）
